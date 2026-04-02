@@ -215,4 +215,3 @@ which bootdev
 Repeat the steps you used to install the CLI. See [Installation](#installation). Then login again.
 
 Mila's version of Boot.dev's Notely app.
-
